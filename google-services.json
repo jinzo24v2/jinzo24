@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "824107363999",
+    "firebase_url": "https://door-2-delivery.firebaseio.com",
+    "project_id": "door-2-delivery",
+    "storage_bucket": "door-2-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824107363999:android:19a2a6392d1be65a5cbcaa",
+        "android_client_info": {
+          "package_name": "com.door2delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824107363999-s720d5ute07kuv5h59sl3e0bii10fkob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.door2delivery",
+            "certificate_hash": "c6e2075cc9a1b3bab719082b90f60c779e9c6fa6"
+          }
+        },
+        {
+          "client_id": "824107363999-f325pm7hli32srkp1djoef0k00885952.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.door2delivery",
+            "certificate_hash": "1c86c8a066ecf3062cbe2ab1818ac27a3b976a3d"
+          }
+        },
+        {
+          "client_id": "824107363999-d2g1u4cffba12sa2j9amou5eletuvbud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2D8X8yBuLcZ6x3QVTdTuwMS3nPRIQej4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824107363999-d2g1u4cffba12sa2j9amou5eletuvbud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+{
+  "appId": "com.door2delivery",
+  "appName": "Jinzo24",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "esModuleInterop":true,
+  "plugins": {
+	"GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "824107363999-d2g1u4cffba12sa2j9amou5eletuvbud.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    },
+	"PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "SplashScreen": {
+      "launchShowDuration": 15000
+    }
+  },
+  "cordova": {}
+}
